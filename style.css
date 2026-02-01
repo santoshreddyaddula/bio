@@ -23,13 +23,6 @@ body {
   background-color: #your-color-here; /* Change this line */
 }
 
-
-body {
-    font-family: var(--font-main);
-    color: var(--text-color);
-    line-height: 1.6;
-    background-color: #fff;
-}
 a {
     color: var(--accent-color);
     text-decoration: none;
